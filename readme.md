@@ -81,6 +81,6 @@ This project is open source and available under the MIT License.
 - Reddit's terms of service and API policies should be followed when scraping their website.
 ```
 
-### How to Customize
-- **Search Query**: You can modify the `search_url` in the script to change the search query or subreddit.
-- **Image Formats**: Add or remove image formats from the `supported_extensions` list if you want to support more image types.
+# How to Customize
+- Search Query: You can modify the `search_url` in the script to change the search query or subreddit.
+- Image Formats: Add or remove image formats from the `supported_extensions` list if you want to support more image types.
