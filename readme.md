@@ -14,7 +14,7 @@ Make sure you have the following installed:
 
 - Python 3.x
 - Chrome browser
-- [ChromeDriver](https://sites.google.com/a/chromium.org/chromedriver/) (Ensure the version matches your Chrome version)
+- [ChromeDriver](https://googlechromelabs.github.io/chrome-for-testing/) (Ensure the version matches your Chrome version)
 - The following Python libraries:
   - `requests`
   - `selenium`
@@ -34,7 +34,7 @@ pip install requests selenium
     cd Reddit_Resume_Image_Scraper
     ```
 
-2. Ensure you have `chromedriver` installed and it matches your installed version of Google Chrome. You can download `chromedriver` from [here](https://sites.google.com/a/chromium.org/chromedriver/).
+2. Ensure you have `chromedriver` installed and it matches your installed version of Google Chrome. You can download `chromedriver` from [here](https://googlechromelabs.github.io/chrome-for-testing/).
 
 3. Run the script:
 
@@ -74,7 +74,7 @@ Reddit_Resume_Image_Scraper/
 - This script uses Selenium WebDriver for Chrome, so you must have Google Chrome installed.
 
 ## License
-This project is open source and available under the MIT License. See the [LICENSE](LICENSE) file for more information.
+This project is open source and available under the MIT License.
 
 ## Acknowledgements
 - The script uses Selenium and requests to interact with the web and download images.
